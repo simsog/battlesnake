@@ -15,7 +15,7 @@ repositories {
 }
 
 // Specify the snake you want to run with mainName
-def mainName = 'MyKotlinSnake'
+def mainName = 'SimBattleSnake'
 def appName = 'snake'
 
 sourceCompatibility = 1.8
